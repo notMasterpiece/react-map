@@ -273,3 +273,16 @@ html, body {
 .is-empty {
   text-align: center;
 }
+
+
+@media  (max-width: 992px) {
+  .listings {
+    width: 100%;
+    margin-left: 0;
+  }
+
+  .mapContainer {
+    position: static;
+    height: 100vh;
+  }
+}
