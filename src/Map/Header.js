@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import Filter from './Filter'
 
 
-import image from '../../assets/images/house-location-pin.svg';
+import image from '../assets/images/house-location-pin.svg';
 
 class Header extends React.Component {
 

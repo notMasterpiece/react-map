@@ -5,7 +5,7 @@ import data from  './data';
 import Cart from './Cart';
 import Header from './Header';
 import GoogleMap from './GoogleMap';
-import image from '../../assets/images/location-map.svg';
+import image from '../assets/images/location-map.svg';
 
 
 import jump from 'jump.js'
